@@ -1,5 +1,5 @@
 # TowerAndGun
-3D Demo in JavaScript using THREE.js and Physi.js
+3D Jenga Tower Demo in JavaScript using THREE.js and Physi.js
 
 # How to deploy
 Copy the content of towerandgun.txt to http://gamingjs.com/ice
